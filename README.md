@@ -40,4 +40,30 @@ Thank  you for visiting my portfolio website !
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 👉 Venuma naan unga portfolio ku GitHub Pages live link setup steps kuda solliduren?
