@@ -1,5 +1,4 @@
-# portfolio-simple-website
-
+Portfolio Website
 # 🌐 Personal Portfolio Website  
 
 This is my *personal portfolio website* created using *HTML* and *basic CSS*.  
@@ -28,42 +27,12 @@ portfolio-website/ │── index.html        # Homepage
 - *HTML5* – Structure of the site  
 - *CSS3* – Styling and design  
 
+
 ---
 
 ## 🔗 Live Demo  
-👉 [View My Portfolio][link]  
-(Replace the link with your GitHub Pages link)  
+👉 [View My Portfolio](link)  
 
-Thank  you for visiting my portfolio website !
+Thank you for visiting my website !
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-👉 Venuma naan unga portfolio ku GitHub Pages live link setup steps kuda solliduren?
