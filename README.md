@@ -31,7 +31,7 @@ portfolio-website/ │── index.html        # Homepage
 ---
 
 ## 🔗 Live Demo  
-👉 [View My Portfolio](link)  
+👉 [View My Portfolio](https://indreshharshan26-ai.github.io/portfolio-simple-website/)  
 
 Thank you for visiting my website !
 
